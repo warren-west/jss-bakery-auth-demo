@@ -1,5 +1,6 @@
-![](http://143.42.108.232/pvt/Noroff-64.png)
-# Back-end Development Year 1
+# JSS Bakery Auth Demo
+This is the bakery project we completed in class (BED 1 AUG-24).
+I have left some useful comments in the source code for extended explanation. 
 
 # JavaScript Servers Module 2 Lesson 3
 
